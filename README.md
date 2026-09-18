@@ -31,4 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
