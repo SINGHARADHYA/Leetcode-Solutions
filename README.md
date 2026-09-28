@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Pigeonhole Principle
 |  |
@@ -60,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
