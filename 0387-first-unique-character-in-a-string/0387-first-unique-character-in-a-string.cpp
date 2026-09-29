@@ -1,14 +1,17 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char,int> mp;
+        
+        int freq[26] = {0};
 
-        for(char i: s){
-            mp[i]++;
+        // Count frequency
+        for(int i = 0; i < s.length(); i++) {
+            freq[s[i] - 'a']++;
         }
 
-        for(int i=0;i<s.length();i++){
-            if(mp[s[i]]==1){
+        // Find first unique character
+        for(int i = 0; i < s.length(); i++) {
+            if(freq[s[i] - 'a'] == 1) {
                 return i;
             }
         }
