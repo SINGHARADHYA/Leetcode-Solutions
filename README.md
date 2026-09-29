@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Pigeonhole Principle
 |  |
