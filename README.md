@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
