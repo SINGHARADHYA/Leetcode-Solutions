@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
