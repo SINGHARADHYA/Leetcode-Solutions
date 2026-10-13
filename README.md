@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
