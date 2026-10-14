@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
