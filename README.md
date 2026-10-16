@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -164,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Enumeration
 |  |
