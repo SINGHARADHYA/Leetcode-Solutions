@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
