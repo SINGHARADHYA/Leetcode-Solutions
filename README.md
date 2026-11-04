@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
