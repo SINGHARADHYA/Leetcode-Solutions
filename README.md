@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2104-sum-of-subarray-ranges](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
