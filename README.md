@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1544-make-the-string-great](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
