@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1929-concatenation-of-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
