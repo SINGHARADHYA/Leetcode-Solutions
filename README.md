@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
