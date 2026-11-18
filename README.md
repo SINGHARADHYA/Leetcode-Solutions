@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
