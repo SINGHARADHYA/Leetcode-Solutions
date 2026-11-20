@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -228,12 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
