@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
