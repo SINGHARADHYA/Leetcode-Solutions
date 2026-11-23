@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Pigeonhole Principle
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SINGHARADHYA/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
